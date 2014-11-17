@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-pcb",
+    "files" : [
+        { "displayName" : "pcb-ringtone"          , "fileName" : "pcb_Ringtone.wav" },
+        { "displayName" : "pcb-messagetone"       , "fileName" : "pcb_Message.wav" },
+        { "displayName" : "pcb-imtone"            , "fileName" : "pcb_IM.wav" },
+        { "displayName" : "pcb-emailtone"         , "fileName" : "pcb_Email.wav" },
+        { "displayName" : "pcb-calendar-alarm"    , "fileName" : "pcb_Calendar.wav" },
+        { "displayName" : "pcb-clock-alarm"       , "fileName" : "pcb_Clock.wav" }
+    ]
+}

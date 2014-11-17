@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "ambience-pcb",
+    "displayName"               : "PCB",
+    "ringerToneFile"            : { "file": "pcb_Ringtone.wav", "enabled": 1 },
+    "messageToneFile"           : { "file": "pcb_Message.wav",  "enabled": 1 },
+    "mailToneFile"              : { "file": "pcb_Email.wav",    "enabled": 1 },
+    "internetCallToneFile"      : { "file": "pcb_IM.wav",       "enabled": 1 },
+    "chatToneFile"              : { "file": "pcb_IM.wav",     "enabled": 1 },
+    "calendarToneFile"          : { "file": "pcb_Calendar.wav", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "pcb_Clock.wav",    "enabled": 1 },
+    "wallpaper"                 : "ambience-pcb.jpg",
+    "highlightColor"            : "#32AD34",
+    "secondaryHighlightColor"   : "#98D699",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : 60,
+    "favorite"			: true
+}
